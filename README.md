@@ -7,18 +7,21 @@ This project presents an interactive Power BI dashboard for PRISM INSURANCE PVT.
 The dashboard integrates 10K+ insurance records from MySQL, cleans and transforms the data, and provides key business insights using dynamic visualizations and KPIs.
 
 ## 🔹 Key Features & Insights:
-- 📂 Data Processing:
+
+📂 Data Processing:
 
 Connected 4 datasets from MySQL and performed data cleaning & transformation to ensure 100% accuracy before visualization.
 Reduced inconsistencies by 30%, improving data reliability.
-- 📊 Interactive Visualizations & KPIs:
+
+📊 Interactive Visualizations & KPIs:
 
 Premium Amount: $5.98M 💰
 Total Claims: $16.91M 📉
 Coverage Amount: $600.55M 📈
 Policy Status: 55% Active, 45% Inactive 📜
 Claims by Age Group: Highest claims from Adults ($8.6M), followed by Elders ($6.4M).
-- 📈 Business Insights:
+
+📈 Business Insights:
 
 44.83% of policies are inactive, indicating potential retention opportunities.
 Travel insurance has the highest premium revenue ($2.5M), highlighting a profitable segment.
@@ -28,3 +31,5 @@ Power BI – Data visualization & dashboard design
 MySQL – Data extraction, transformation, and cleaning
 Power Query – Data modeling & calculated columns (Age Group, Active/Inactive Policy)
 DAX – Custom measures for KPIs
+
+
